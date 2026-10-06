@@ -65,4 +65,6 @@ Constants at the top of `3dcircle.cpp`:
 
 ## License
 
-MIT, or whatever you prefer. Add a `LICENSE` file if you want one.
+## License
+
+This project is licensed under the MIT License.
